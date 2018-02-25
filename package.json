@@ -1,0 +1,11 @@
+{
+  "name": "trash-kun",
+  "version": "1.0.0",
+  "description": "This is a Discord bot for random garbage. Please don't forget the kun honorific or you'll hurt trash-kun's feelings.",
+  "main": "bot.js",
+  "author": "Thelann",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  }
+}
